@@ -54,8 +54,9 @@ The Verilog module `ADC` is responsible for:
 5. Trigger output enable
 6. Read and store converted digital output
 
-📄 **Refer to the [Flow Chart](Flow%20chart.pdf)** for step-by-step logic  
+📄 **Refer to the [Flow Chart](Flow%20chart/Flow%20chart.pdf)** for step-by-step logic  
 🗂️ **See the [Block Diagram](Block%20Diagram%20.pdf)** for hardware connections
+
 
 ---
 
