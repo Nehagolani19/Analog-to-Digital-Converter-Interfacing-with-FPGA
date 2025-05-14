@@ -105,5 +105,5 @@ The Verilog module `ADC` is responsible for:
 
 ## 📌 License
 
-This project is developed for academic purposes. You may reuse the code with proper attribution.
+This project is licensed under the [MIT License](LICENSE).
 
